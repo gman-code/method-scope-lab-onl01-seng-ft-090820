@@ -1,3 +1,3 @@
 def catch(phrase)
-  puts {#phrase}
+  puts"# {phrase}
 end
